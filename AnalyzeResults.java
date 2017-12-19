@@ -75,7 +75,7 @@ public class AnalyzeResults {
 		
 			for (int cnt1=1; cnt1<=10; cnt1++) {
 			
-				System.out.println(cnt1);
+				
 				if (cnt==18) {
 					if(cnt1!=10) {
 						cnt1 = 9;}
